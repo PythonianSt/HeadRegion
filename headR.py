@@ -7,7 +7,7 @@ st.set_page_config(
 )
 
 st.title("Head & Neck Region")
-st.caption("Doctor quick reminder • Red flags & differential diagnoses • Rule-based only")
+st.caption("Doctor quick reminder • Red flags & differential diagnoses")
 
 st.warning(
     "This page is a concise clinical reminder, not a diagnostic tool. "
@@ -145,5 +145,5 @@ with tab2:
 st.divider()
 
 st.caption(
-    "KU KPS Pain Consult • QR doctor reminder • No AI • No data collection"
+    "KU KPS Infirmary"
 )
